@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
