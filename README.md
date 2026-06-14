@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1392-longest-happy-prefix) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
