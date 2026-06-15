@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,8 +79,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
