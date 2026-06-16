@@ -1,0 +1,41 @@
+class Solution {
+  public:
+  int V;
+  bool isSafe(int node, vector<int> adj[], vector<int> &color, int c) {
+    // Only iterate through actual neighbors
+    for (auto neighbor : adj[node]) {
+        if (color[neighbor] == c) {
+            return false; // Found a neighbor with the same color
+        }
+    }
+    return true;
+}
+
+    bool solve(int node,vector<int> adj[], vector<int>&color, int c,int m){
+        if(node>=V) return true;
+        for(int col=1; col<=m; col++){
+            if(isSafe(node,adj,color,col)){
+                color[node]=col;
+                if(solve(node+1,adj,color,c,m)) return true;
+                color[node]=-1;
+            }
+            
+        }
+        return false;
+        
+    }
+
+    bool graphColoring(int v, vector<vector<int>> &edges, int m) {
+        // code here
+        int e=edges.size();
+        V=v;
+        vector<int> adj[v];
+        for (auto it : edges) {
+            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]); // Because it is an undirected graph
+        }
+        vector<int> color(V,-1);
+        int c=0;
+        return solve(0,adj,color,c,m);
+    }
+};
