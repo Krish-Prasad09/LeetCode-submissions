@@ -159,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0460-lfu-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
