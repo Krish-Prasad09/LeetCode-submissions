@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
