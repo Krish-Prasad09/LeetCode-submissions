@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1392-longest-happy-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
