@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0214-shortest-palindrome) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
