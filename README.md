@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0355-design-twitter](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
