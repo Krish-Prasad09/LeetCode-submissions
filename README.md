@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0214-shortest-palindrome) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
