@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-find-the-highest-altitude](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
+| [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
+| [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Counting
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0024-swap-nodes-in-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
