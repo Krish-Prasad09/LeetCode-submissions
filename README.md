@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
