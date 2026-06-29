@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0686-repeated-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1392-longest-happy-prefix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1392-longest-happy-prefix) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## String Matching
