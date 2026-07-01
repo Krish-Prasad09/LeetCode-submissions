@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
