@@ -1,27 +1,13 @@
 class Solution {
 public:
     int reverse(int x) {
-        string s=to_string(x);
-        int ans=0;
-        if(s[0]=='-'){
-            std::reverse(s.begin(),s.end());
-            s.pop_back();
-            try{
-                ans=stoi(s);
-            } catch(...) {
-                return 0;
-            }
-            return ans*(-1);
+        int rev=0;
+        while(x){
+            int digit=x%10;
+            x/=10;
+            if((rev)> INT_MAX/10 || rev<INT_MIN/10) return 0;
+            else rev=rev*10 +digit;
         }
-        else{
-            std::reverse(s.begin(),s.end());
-            try{
-                ans=stoi(s);
-                
-            }catch(...) {
-                return 0;
-            }
-            return ans*(1);
-        }
+        return rev;
     }
 };
