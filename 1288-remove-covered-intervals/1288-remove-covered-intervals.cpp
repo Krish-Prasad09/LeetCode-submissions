@@ -2,8 +2,6 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int cnt=0, n=intervals.size();
-        sort(intervals.begin(), intervals.end());
-        reverse(intervals.begin(), intervals.end());
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
                 if(j==i) continue;
