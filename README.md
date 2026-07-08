@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
