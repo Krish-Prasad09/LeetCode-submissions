@@ -338,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-building-h2o](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1226-the-dining-philosophers) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
