@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
