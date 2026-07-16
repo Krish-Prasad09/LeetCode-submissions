@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+| [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
