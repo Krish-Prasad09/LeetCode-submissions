@@ -15,12 +15,12 @@ public:
         for(int i=0; i<n; i++){
             prefS+=nums[i];
             pref.push_back(prefS);
-            if(mp.find(prefS-k) !=mp.end()){
-                cnt += mp[prefS-k];
+        }
+        for(int i=1; i<pref.size(); i++){
+            if(mp.find(pref[i]-k) !=mp.end()){
+                cnt += mp[pref[i]-k];
             }
-            
-            mp[prefS]++;
-            
+            mp[pref[i]]++;
         }
 
         return cnt;
