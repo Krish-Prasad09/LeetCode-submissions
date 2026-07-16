@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
