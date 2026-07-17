@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
