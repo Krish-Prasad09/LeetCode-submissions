@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0214-shortest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0686-repeated-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1392-longest-happy-prefix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
