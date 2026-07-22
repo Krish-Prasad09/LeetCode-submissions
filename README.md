@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -427,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0584-find-customer-referee) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
