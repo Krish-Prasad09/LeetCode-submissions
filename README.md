@@ -420,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
