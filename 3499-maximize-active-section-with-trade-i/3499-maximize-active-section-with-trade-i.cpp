@@ -1,34 +1,30 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        int n = s.size();
-        int cnt1 = count(s.begin(), s.end(), '1');
+        int n = s.length();
 
-        vector<int> zeroBlocks;
+        //existing count of 1s
+        int activeCount = count(begin(s), end(s), '1');
+
+        vector<int> inactiveBlocks;
         int i = 0;
-        while (i < n) {
-            int start = i;
+        while(i < n) {
+            if(s[i] == '0') {
+                int start = i;
+                while(i < n && s[i] == '0') i++;
 
-            while (i < n && s[i] == s[start]) {
-                ++i;
+                inactiveBlocks.push_back(i-start);
+            } else {
+                i++;
             }
-
-            if (s[start] == '0') {
-                zeroBlocks.push_back(i - start);
-            }
         }
 
-        int m = zeroBlocks.size();
-
-        if (m < 2) {
-            return cnt1;
+        int maxPairSum = 0;
+        //max(inactiveBlocks[i] + inactiveBlocks[i-1])
+        for(int i = 1; i < inactiveBlocks.size(); i++) {
+            maxPairSum = max(maxPairSum, inactiveBlocks[i] + inactiveBlocks[i-1]);
         }
 
-        int bestGain = 0;  // Optimal Increment
-        for (int i = 0; i < m - 1; ++i) {
-            bestGain = max(bestGain, zeroBlocks[i] + zeroBlocks[i + 1]);
-        }
-
-        return cnt1 + bestGain;
+        return maxPairSum + activeCount;
     }
 };
