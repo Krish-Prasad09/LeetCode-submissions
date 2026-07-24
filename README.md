@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0587-erect-the-fence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+| [0587-erect-the-fence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0587-erect-the-fence) |
 | [1185-day-of-the-week](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1185-day-of-the-week) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
