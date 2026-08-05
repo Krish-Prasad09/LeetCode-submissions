@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
@@ -509,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
