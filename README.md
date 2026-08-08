@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3620-network-recovery-pathways) |
 ## Concurrency
 |  |
@@ -546,4 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
