@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [0956-tallest-billboard](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0956-tallest-billboard) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
