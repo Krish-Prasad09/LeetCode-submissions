@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0956-tallest-billboard) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1185-day-of-the-week](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1185-day-of-the-week) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -534,14 +536,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -571,4 +576,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
