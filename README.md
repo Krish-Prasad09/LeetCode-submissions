@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+| [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0355-design-twitter) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0214-shortest-palindrome) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0433-minimum-genetic-mutation) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0542-01-matrix) |
@@ -598,5 +601,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
