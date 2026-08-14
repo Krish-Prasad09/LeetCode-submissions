@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0118-pascals-triangle) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
