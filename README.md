@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0542-01-matrix) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
+| [0322-coin-change](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0542-01-matrix) |
@@ -633,9 +636,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
