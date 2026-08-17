@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1563-stone-game-v) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-find-the-highest-altitude](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1185-day-of-the-week) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
