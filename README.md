@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Search Tree
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1129-shortest-path-with-alternating-colors) |
