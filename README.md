@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1563-stone-game-v) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
