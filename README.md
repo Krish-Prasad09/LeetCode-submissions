@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Database
 |  |
 | ------- |
