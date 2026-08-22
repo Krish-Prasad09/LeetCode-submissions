@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Data Stream
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0841-keys-and-rooms) |
