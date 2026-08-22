@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0493-reverse-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
