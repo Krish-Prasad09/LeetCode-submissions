@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [0956-tallest-billboard](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0956-tallest-billboard) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
