@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0904-fruit-into-baskets) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0542-01-matrix) |
+| [0835-image-overlap](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
