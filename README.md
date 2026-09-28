@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1696-jump-game-vi](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1696-jump-game-vi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2054-two-best-non-overlapping-events](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -557,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
