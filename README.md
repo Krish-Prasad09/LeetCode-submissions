@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0455-assign-cookies](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0486-predict-the-winner) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0647-palindromic-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1096-brace-expansion-ii) |
@@ -824,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
