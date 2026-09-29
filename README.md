@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
