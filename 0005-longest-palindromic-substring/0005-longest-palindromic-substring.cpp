@@ -1,40 +1,55 @@
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        int n = s.length();
+    int maxl = 0, maxr = 0;
 
-        vector<vector<bool>> dp(n, vector<bool>(n, false));
+    vector<vector<int>> pal;
+    vector<vector<bool>> vis;
 
-        int maxl = 0;
-        int maxlen = 1;
+    bool checkP(string &s, int l, int r) {
 
-        // Length 1
-        for(int i = 0; i < n; i++) {
-            dp[i][i] = true;
-        }
+        if(l >= r)
+            return true;
 
-        // Length 2 to n
-        for(int len = 2; len <= n; len++) {
+        if(pal[l][r] != -1)
+            return pal[l][r];
 
-            for(int l = 0; l + len - 1 < n; l++) {
+        if(s[l] != s[r])
+            return pal[l][r] = false;
 
-                int r = l + len - 1;
+        return pal[l][r] = checkP(s, l + 1, r - 1);
+    }
 
-                if(s[l] == s[r]) {
+    void solve(int l, int r, string &s) {
 
-                    if(len == 2)
-                        dp[l][r] = true;
-                    else
-                        dp[l][r] = dp[l+1][r-1];
-                }
+        if(l > r)
+            return;
 
-                if(dp[l][r] && len > maxlen) {
-                    maxlen = len;
-                    maxl = l;
-                }
+        if(vis[l][r])
+            return;
+
+        vis[l][r] = true;
+
+        if(checkP(s, l, r)) {
+
+            if(r - l + 1 > maxr - maxl + 1) {
+                maxl = l;
+                maxr = r;
             }
         }
 
-        return s.substr(maxl, maxlen);
+        solve(l + 1, r, s);
+        solve(l, r - 1, s);
+    }
+
+    string longestPalindrome(string s) {
+
+        int n = s.length();
+
+        pal.assign(n, vector<int>(n, -1));
+        vis.assign(n, vector<bool>(n, false));
+
+        solve(0, n - 1, s);
+
+        return s.substr(maxl, maxr - maxl + 1);
     }
 };
