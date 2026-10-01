@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
