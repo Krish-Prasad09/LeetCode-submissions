@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0450-delete-node-in-a-bst](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0493-reverse-pairs) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0836-rectangle-overlap) |
@@ -889,4 +891,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
