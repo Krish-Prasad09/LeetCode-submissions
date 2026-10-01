@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1696-jump-game-vi) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2054-two-best-non-overlapping-events) |
