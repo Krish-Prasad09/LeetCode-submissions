@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0076-minimum-window-substring) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0055-jump-game) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0078-subsets) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
