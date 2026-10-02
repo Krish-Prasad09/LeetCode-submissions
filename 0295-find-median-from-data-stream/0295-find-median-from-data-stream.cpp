@@ -1,33 +1,29 @@
 class MedianFinder {
 public:
-priority_queue<int> left_max_heap;
-priority_queue<int,vector<int>,greater<int>> right_min_heap;
+    multiset<int> st;
 
     MedianFinder() {
-        
     }
-    
+
     void addNum(int num) {
-        if(left_max_heap.empty() || num<left_max_heap.top()){
-            left_max_heap.push(num);
-        } else{
-            right_min_heap.push(num);
-        }
-        if(abs((int)left_max_heap.size()-(int)right_min_heap.size()) >1){
-            right_min_heap.push(left_max_heap.top());
-            left_max_heap.pop();
-        } else if(left_max_heap.size()<right_min_heap.size()){
-            left_max_heap.push(right_min_heap.top());
-            right_min_heap.pop();
-        }
+        st.insert(num);
     }
-    //always maintain left max heap size one greater than right min heap size ya phir equal rakh bsdk
+
     double findMedian() {
-        if(left_max_heap.size()==right_min_heap.size()){
-            double mean= (left_max_heap.top() +right_min_heap.top())/2.0;
-            return mean;
-        }
-        return left_max_heap.top();
+        int n = st.size();
+
+        auto it = st.begin();
+
+        advance(it, n / 2);
+
+        if(n % 2)
+            return *it;
+
+        int right = *it;
+        it--;
+        int left = *it;
+
+        return (left + right) / 2.0;
     }
 };
 
