@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0433-minimum-genetic-mutation) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
