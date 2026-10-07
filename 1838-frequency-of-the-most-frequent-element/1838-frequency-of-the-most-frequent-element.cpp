@@ -1,27 +1,27 @@
 class Solution {
 public:
-    int maxFrequency(vector<int>& nums, int k) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-        int l=0;
-        int maxi=0;
-        int cnt=0;
-        int orik=k;
-        long long current_window_sum = 0;
-        for(int i=0; i<n; i++){
-            current_window_sum += nums[i];
-            cnt++;
-            // IF: Agar saare elements ko nums[i] banane ka cost budget 'k' ke andar hai
-            if ((long long)cnt * nums[i] - current_window_sum <= k) {
-                maxi = max(maxi, cnt);
-            }
-            // ELSE: Agar budget se baahar gaya, toh bina loop ke left se ek element hatao
-            else {
-                current_window_sum -= nums[l];
+    int maxFrequency(vector<int>& arr, int k) {
+        int n = arr.size();
+
+        sort(arr.begin(), arr.end());
+
+        int l = 0;
+        long long cost = 0;
+        int maxi = 0;
+        if(n==1) return 1;
+
+        for(int i = 1; i < n; i++) {
+
+            cost += 1LL * (arr[i] - arr[i-1]) * (i-l);
+
+            while(cost > k) {
+                cost -= arr[i] - arr[l];
                 l++;
-                cnt--; // Window choti hui toh count ek kam kar do
             }
+
+            maxi = max(maxi, i-l+1);
         }
+
         return maxi;
     }
 };
