@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0836-rectangle-overlap) |
