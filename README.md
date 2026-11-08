@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -801,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/2685-count-the-number-of-complete-components) |
