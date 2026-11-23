@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/0877-stone-game) |
 | [1185-day-of-the-week](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1185-day-of-the-week) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krish-Prasad09/LeetCode-submissions/tree/master/1510-stone-game-iv) |
